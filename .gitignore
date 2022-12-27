@@ -1,0 +1,5 @@
+.env  
+node_modules/
+
+#aqui estamos agregando los archivos que no queremos subir a GIT
+# funciona con .ENV (archivo) MODE_MODULES (carpetas) 
